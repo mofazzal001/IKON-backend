@@ -74,6 +74,7 @@ class Dataloader {
 				   '1' AS synergy
 
 
+
 			FROM ? AS proj
 
 			-- Match the country codes to projects
